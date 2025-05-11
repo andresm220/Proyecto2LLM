@@ -1,5 +1,11 @@
-streamlit
-pinecone-client==2.2.4
-langchain-community==0.0.29
-openai>=1.12.0
-python-dotenv>=1.0.0
+streamlit==1.32.0
+langchain==0.1.16
+pinecone-client==3.2.2
+python-dotenv==1.0.0
+unstructured
+pdf2image==1.17.0
+python-magic-bin==0.4.14
+langchain-openai==0.1.2
+openai>=1.14.0
+langchain-community==0.0.34
+chardet==5.2.0
